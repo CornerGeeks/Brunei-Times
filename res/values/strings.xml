@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Brunei Times</string>
+    <string name="action_refresh">Refresh</string>
+    <string name="action_share">Share</string>
+    <string name="action_select_page">Select Page</string>
+    <string name="action_select_date">Select Date</string>
+    <string name="use_this_date">Use this Date</string>
+    <string name="action_today">Today</string>
+    <string name="action_open_with">Open with...</string>
+    <string name="no_pages_found">No pages found. Paper yet to be uploaded for this date?</string>
+    <string name="unexpected_error">Unexpected error</string>
+    <string name="loading">Loading...</string>
+    <!-- Content descriptions -->
+    <string name="descr_image">Image</string>
+    
+</resources>
